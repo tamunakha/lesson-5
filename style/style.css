@@ -1,0 +1,45 @@
+.parent-float {
+	background: green;
+	padding: 25px;
+}
+.div{
+	background: yellow;
+}
+.ul{
+	list-style: none;
+}
+
+.li{
+	 display: inline-block;
+   width:200px;
+}
+.image {
+	width: 100px;
+}
+.foto{
+	width: 250px;
+	vertical-align: top;
+}
+
+.text1{
+	display: inline-block;
+	width: 500px;
+	background: grey;
+	margin:0 0 0 20px ;
+	vertical-align: middle;
+	line-height: 20px;
+}
+.float-box-secend-img{
+	width: 250px;
+	vertical-align: top;
+}
+.text2{
+	display: inline-block;
+	width: 500px;
+	background: grey;
+	margin:0 0 0 20px; 
+	line-height: 20px;
+	vertical-align: middle;
+}
+
+
