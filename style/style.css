@@ -1,45 +1,79 @@
+
+
 .parent-float {
-	background: green;
-	padding: 25px;
+	text-align: center;
+	margin-top: 15px;
+	margin-bottom: 8px;
+	font-size: 20px;
 }
-.div{
-	background: yellow;
+.section{
+	background: green;
+	border:2px solid:green;
+	margin:16px 40px;
+	padding-bottom:80px;
+}
+.Container{
+	margin:36px 100px 0px;
+}
+.logo{
+	float:right;
+	margin-right:40px; 
+	margin-left:60px;
+	width: 10px;
 }
 .ul{
-	list-style: none;
+	float:right;
+	margin-top: 25;
 }
 
-.li{
-	 display: inline-block;
-   width:200px;
+
+.lii{
+
+    float:left;
 }
-.image {
-	width: 100px;
+.float-box-left{
+	background-color:yellow;
+	width: 620px;
+	float: left;
+	margin-left: 70px;
+	padding-top: 13px;
+	padding-right: 35px;
+	padding-left: 29px;
+	height: 350px;
+
+
 }
-.foto{
-	width: 250px;
-	vertical-align: top;
+
+.float-box-right:{
+	background-color: aqua;
+	width: 525px;
+	float:right;
+	margin-right:110px;
+	padding-top: 15px;
+	padding-left: 30px;
+	height: 350px;
+
+
+}
+
+.fotoleft{
+	width: 150px;
+	float:right;
+	margin-left: 25px;
+	margin-bottom: 40px;
+}
+.clear{
+	clear:both;
+}
+
+.float-box-secendright{
+	width: 150px;
+	float: left;
+	margin-right;
+	margin-bottom: 40px;
+
 }
 
 .text1{
-	display: inline-block;
-	width: 500px;
-	background: grey;
-	margin:0 0 0 20px ;
-	vertical-align: middle;
-	line-height: 20px;
+	font-family: sego
 }
-.float-box-secend-img{
-	width: 250px;
-	vertical-align: top;
-}
-.text2{
-	display: inline-block;
-	width: 500px;
-	background: grey;
-	margin:0 0 0 20px; 
-	line-height: 20px;
-	vertical-align: middle;
-}
-
-
