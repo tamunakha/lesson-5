@@ -1,79 +1,74 @@
 
-
-.parent-float {
-	text-align: center;
-	margin-top: 15px;
-	margin-bottom: 8px;
-	font-size: 20px;
-}
-.section{
-	background: green;
-	border:2px solid:green;
-	margin:16px 40px;
-	padding-bottom:80px;
-}
 .Container{
-	margin:36px 100px 0px;
-}
-.logo{
-	float:right;
-	margin-right:40px; 
-	margin-left:60px;
-	width: 10px;
-}
-.ul{
-	float:right;
-	margin-top: 25;
-}
+    background-color: green;
+	margin-top:15px;
+	margin-bottom: 7px;
+	border: 10px solid black;
+	text-align: center;
+	padding-bottom: 80px;
+	margin: 36px 0 100px 0;
 
 
-.lii{
 
-    float:left;
+	
 }
-.float-box-left{
-	background-color:yellow;
-	width: 620px;
-	float: left;
-	margin-left: 70px;
+
+.image {
+	float: right;
+	margin-right: 50px;
+	margin-left: 65px;
+	
+
+}
+
+.parent-float{
+	background-color: yellow;
+	width: 1000px;
+	float-left;
+	margin-left: 400px;
 	padding-top: 13px;
-	padding-right: 35px;
-	padding-left: 29px;
-	height: 350px;
+	padding-right: 32px;
+	padding-left: 26px;
+	height: 700px;
 
-
-}
-
-.float-box-right:{
-	background-color: aqua;
-	width: 525px;
-	float:right;
-	margin-right:110px;
-	padding-top: 15px;
-	padding-left: 30px;
-	height: 350px;
 
 
 }
 
-.fotoleft{
-	width: 150px;
-	float:right;
-	margin-left: 25px;
-	margin-bottom: 40px;
+.float-box-img{
+	  width: 200px;
+	  float:right;
+	  margin-left: 45px;
+	  margin-bottom: 36px;
 }
+
+.float-box-second-img{
+	width: 200px;
+	float-left;
+	margin-right: 22px;
+	margin-bottom: 36px;
+}
+
+
+.float-box-left{
+	vertical-align: top;
+	float: left;
+	width: 500px;
+
+
+
+}
+	
+
+	
+.float-box-right{
+    float:right;
+    width: 500px;
+}
+
+
+
 .clear{
 	clear:both;
 }
 
-.float-box-secendright{
-	width: 150px;
-	float: left;
-	margin-right;
-	margin-bottom: 40px;
-
-}
-
-.text1{
-	font-family: sego
-}
